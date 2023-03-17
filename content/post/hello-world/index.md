@@ -11,20 +11,20 @@ tags:
 ---
 
 (I used to blog at [dailytechnology.net](https://dailytechnology.net) and will keep the
-old Jekyll blog around just for historical purposes.)
+old Jekyll-based blog around just for historical purposes.)
 
 In 2022, I ended a long tenure working for Stratasan, the company that I
 co-founded with Jason Moore back in 2011. It has been a huge part of my career
-and I probably will not ever get to experience anything like it again.
+and I doubt I will ever get to experience anything like it again.
 
-I say that not because it was a successful company, because it most certainly
-was, but because of the kinds of people I got to work with. Ten years from now,
-I won't remember much about the business strategy, the technical architecture,
-the effort we put into solid security patterns, or the roadmap priorities. What
-I'll remember is the people, and how it felt to work with them.
+I say that not because it was a successful company but because of the kinds of
+people I got to work with. Ten years from now, I won't remember much about the
+business strategy, the technical architecture, the effort we put into solid
+ecurity patterns, or the roadmap priorities. What I'll remember is the people,
+and how it felt to work with them.
 
-Stratasan was special because, generally speaking, our engineering and product
-teams had a very high level of trust. If you know Jason Moore very much, you
+Stratasan was special because our engineering and product
+teams had a very high level of trust. If you have spent much time with Jason Moore, you
 would learn that he is a special kind of leader. A lot of leaders like you to
 think they know absolutely everything. Leaders must project confidence, yes, but
 they also need to acknowledge that they can't know _everything_, and Jason Moore
