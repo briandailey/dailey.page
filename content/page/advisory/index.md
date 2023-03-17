@@ -32,7 +32,7 @@ are some of the services I offer.
 ## Get in touch?
 
 If you feel I might be helpful in any capacity, feel free to reach out directly
-via email.
+via email at brian @ (this domain).
 
 > Photo by [Jamie Street](https://unsplash.com/@jamie452) on Unsplash
 
