@@ -13,7 +13,7 @@ Hi! 👋🏻 My name is Brian and I'm an engineering lead, technology advisor, a
 community member of Nashville, Tennessee. My family (wife and five kids) have
 called Nashville home since 2009. Previously, we lived in Queens, NY.
 
-I have an extensive background in software engineering, engineering leaderhship,
+I have an extensive background in software engineering, engineering leadership,
 healthcare technology, product management, security and compliance, and business
 strategy. You can read more about my technology advisor work
 [here](/technical-advisory).
