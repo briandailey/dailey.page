@@ -22,3 +22,20 @@ url = "https://twitter.com/byeliad"
 
 [social.params]
 icon = "brand-twitter"
+
+[[social]]
+identifier = "linkedin"
+name = "LinkedIn"
+url = "https://linkedin.com/in/briandailey"
+
+[social.params]
+icon = "brand-linkedin"
+
+[[social]]
+identifier = "mastodon"
+name = "Mastodon"
+url = "https://nashtodon.com/@byeliad"
+
+[social.params]
+icon = "brand-mastodon"
+

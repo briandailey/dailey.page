@@ -15,7 +15,7 @@ old Jekyll-based blog around just for historical purposes.)
 
 In 2022, I ended a long tenure working for Stratasan, the company that I
 co-founded with Jason Moore back in 2011. It has been a huge part of my career
-and I doubt I will ever get to experience anything like it again.
+and I doubt I will ever get to experience anything like it again.[^retro]
 
 I say that not because it was a successful company but because of the kinds of
 people I got to work with. Ten years from now, I won't remember much about the
@@ -37,7 +37,7 @@ engineer, I was used to fast feedback: if you do something silly, hopefully you
 have some unit tests that fail and you go fix it. Management is completely
 different. When you do something stupid, sometimes you don't know just how
 stupid it was for weeks or even months. When I did make a mistake, I tried to
-learn from it.[^1]
+learn from it.[^failfast]
 
 What's next for me? I'm not really sure. At this time, I have many personal
 things that require my attention, so I am taking a pause to reassess my
@@ -48,6 +48,8 @@ See you next time!
 
 ![Jason and Brian](jason-and-brian.jpg)
 
-[^1]: I enjoyed McArdle's "The Up Side of Down". [This EconTalk
+[^retro]: I wrote a [10-year retrospective of my time at Stratasan
+  here](https://dailytechnology.net/management/2021/04/26/ten-years-at-stratasan)
+[^failfast]: I enjoyed McArdle's "The Up Side of Down". [This EconTalk
   podcast](https://www.econtalk.org/mcardle-on-failure-success-and-the-up-side-of-down/)
   is a great summary.
