@@ -59,11 +59,10 @@ management, QA, etc.
 
 ## [Inspired](https://www.goodreads.com/book/show/35249663-inspired) by Marty Cagan and Chris Jones
 
-Speaking of product management, this book and "[Empowered](https://www.goodreads.com/book/show/55954021-empowered)
-are aimed more at product managers. Smart colleagues Cagan kept recommending
-Cagan. Once I read "Inspired", I wished I had done so sooner. The Stratasan team
-read both of these books as a group and I found them to be extremely helpful to
-communicate the vision for a true product-first company.
+Speaking of product management, this book and "[Empowered](https://www.goodreads.com/book/show/55954021-empowered)"
+are aimed more at product managers. The Stratasan team read both of these books
+as a group and I found them to be extremely helpful to communicate the vision
+for a true product-first company.
 
 If "The Nature of Software Development" was a good introduction to software
 development for product managers, "Inspired" was a great introduction to product
@@ -85,11 +84,10 @@ to watch.
 
 ## [The Manager's Path](https://www.goodreads.com/book/show/33369254-the-manager-s-path) by Camille Fournier
 
-This book is broken out in a way that matters most management careers: from
+This book is broken out in a way that matches the trajectory of most careers in engineering management: from
 individual contributor, to team lead, to manager of a single team, to multiple
-teams, and then finally a manager of managers. This was a book I kept constantly
-on hand as our company grew from 2 to 100 people. I found myself referencing it
-often.
+teams, and then finally a manager of managers. This was a book I constantly kept
+on hand as our company grew and I found myself referencing it often.
 
 ## [High Output Management](https://www.goodreads.com/is/book/show/324750.High_Output_Management) by Andrew Grove
 
