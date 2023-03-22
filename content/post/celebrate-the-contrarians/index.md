@@ -43,8 +43,6 @@ Once those voices have been heard and addressed in good faith, then the team can
 
 (You might be saying, "Alright, that's all well and good, Brian, what if I'm not a manager? What if I am the contrarian?" Well, carry on, I say! If you're looking for ways to be a more effective contrarian, then I recommend checking out "[The Art of Insubordination: How to Dissent and Defy Effectively](https://www.goodreads.com/book/show/57559387-the-art-of-insubordination)" by Todd Kashdan.)
 
-See you next time!
-
 [^econtalk]: [March 20, 2023 EconTalk episode with Megan McArdle](https://www.econtalk.org/megan-mcardle-on-the-oedipus-trap/)
 [^veggies]: One person used the phrase "eat your vegetables" often to highlight something that we needed to do that might feel like a chore. I loved that.
 
