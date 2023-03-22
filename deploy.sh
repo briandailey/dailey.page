@@ -1,6 +1,6 @@
 #!/bin/env bash
 # First, build hugo after clearing the build dir.
-rm -rf public && hugo
+hugo
 
 function deploy () {
     bucket="s3://drafts.dailey.page"
