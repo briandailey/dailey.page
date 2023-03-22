@@ -1,6 +1,6 @@
 ---
 title: Celebrate the Contrarians
-description: Organizations that squash dissent will be worse for it.
+description: Organizations that squash dissent are worse for it.
 slug: celebrate-the-contrarians
 date: 2023-03-22 00:00:00+0000
 image: cover.jpg
