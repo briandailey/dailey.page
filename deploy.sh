@@ -1,6 +1,9 @@
 #!/bin/env bash
+# First, build hugo after clearing the build dir.
+rm -rf public && hugo
+
 function deploy () {
-    bucket="s3://staging.dailey.page"
+    bucket="s3://drafts.dailey.page"
 
     if [[ $1 == "prod" ]]; then
         bucket="s3://dailey.page/"
