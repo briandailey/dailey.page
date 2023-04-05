@@ -39,25 +39,26 @@ Skeptical viewpoints can encourage more thoughtful discussion.
 However, the issue is that many organizations do not _encourage_ skepticism. On
 the contrary, they often suppress it. If you've seen a leader respond
 defensively to a question asked in good faith, then you've seen this happen.
+[Unhealthy peace](https://freakonomics.com/podcast/how-to-make-meetings-less-terrible-ep-389/)
+is often prioritized over healthy conflict. Furthermore, it only takes is one
+poor reaction to a challenging question to effectively silence all future questions.
 
 This leads to an environment where only the boldest or most adversarial team
 members will express skepticism. In short: _if an environment is hostile to
 dissenting opinions, then the only dissenting opinions will be hostile._
 
-Ergo, we need to build environments where contrary opinions are welcomed and rewarded so that we can benefit from sharper critical thinking from our teams.
+Ergo, we need to build environments where contrary opinions are welcomed and
+rewarded so that we can benefit from sharper critical thinking from our teams.
 
-At Stratasan, we had several team members that I valued for speaking up against consensus. They weren't being combative They raised objections in a constructive way. They were willing to ask questions that often make leaders uncomfortable or advocate for an unpopular priority.[^veggies] If you are dealing with complex problems and solutions, finding someone who can diplomatically raise uncomfortable issues is something to treasure. They will help your team think more critically.
-
-Unfortunately, in many organizations leadership and groups do not like to be made uncomfortable. [Unhealthy peace](https://freakonomics.com/podcast/how-to-make-meetings-less-terrible-ep-389/) is prioritized over healthy conflict. Furthermore, it only takes is one poor reaction to a challenging question to effectively silence all future questions.
-
-If you agree that a skeptic can be useful, what can you as a manager or leader do to encourage them? Here are four specific things.
+What can you as a manager or leader do to encourage principled insubordination?
+Here are four specific things.
 
 1. First, be vulnerable. This take courage and is often uncomfortable. Brene Brown really does a great job of explaining this in [Dare To Lead](https://www.goodreads.com/book/show/40109367-dare-to-lead). Leadership must demonstrate that they can’t know all of the things and that they are open to changing course. If leadership is not open to criticism, they will receive none, and the organization will be worse for it.
 1. Coach. There’s a fine line between being a skeptic (challenging commonly accepted opinions, good) and a cynic (believing that others are not acting in good faith, bad). A cynical person might be recovering from a previous job where they were not able to ask (or, worse, punished for asking) critical questions, but with the right encouragement they might be converted into a skeptic. Other team members might just need a little help challenging opinions in a diplomatic, constructive way.
 1. Solicit. Solicitation of feedback is often required because many people are reluctant to provide honest feedback because they've learned that leaders don’t react well. Keeping your head down is a good strategy in many organizations, so you have to work to solicit dissenting opinions.
 1. Reward. Even solicitation may not be effective if some team members have had poor experiences raising objections in the past. Hence, rewarding those that speak up is critical as it signals to everyone else that disagreement is encouraged. Asking for clarification, seeking to understand, answering questions in good faith and, most importantly, changing course when merited: all of this indicates to the team that managers and leaders are open to constructive feedback.
 
-This blog post might make it sound easy, but as any leader would know, it is most certainly not. A rush of adrenaline is a fundamental human reaction to contradiction, propelling us toward a vigorous verbal defense. It's hard to tamp that immediate reaction down and listen. Listening can take the form of asking clarifying questions, surfacing the underlying problem.
+This short list might make it sound easy, but as any leader would know, it is most certainly not. A rush of adrenaline is a fundamental human reaction to contradiction, propelling us toward a vigorous verbal defense. It's hard to tamp that immediate reaction down and listen. Listening can take the form of asking clarifying questions, surfacing the underlying problem.
 
 Once those voices have been heard and addressed in good faith, then the team can move on, even if it means that some parties have to [disagree and commit](https://en.wikipedia.org/wiki/Disagree_and_commit). By being vulnerable, coaching, soliciting opinions, and rewarding dissent organizations can continue to benefit from critical thinking and avoid the trap of artificial consensus.
 
