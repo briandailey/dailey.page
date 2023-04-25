@@ -15,8 +15,8 @@ called Nashville home since 2009. Previously, we lived in Queens, NY.
 
 I have an extensive background in software engineering, engineering leadership,
 healthcare technology, product management, security and compliance, and business
-strategy. You can read more about my technology advisor work
-[here](/technical-advisory).
+strategy. You can read more about my technology advisor work with
+[Creo Advisory, LLC](https://creollc.co).
 
 You can often find me on the [NashDev](https://nashdev.com/) or
 the [Rands
