@@ -20,7 +20,7 @@ a small number of conference rooms. We used shared calendars to book the
 rooms. If a meeting went over time, participants had to wrap up and
 exit so the new meeting could get started.
 
-This served as a forcing function for two things:
+This served as a forcing function in a few ways:
 
 - The availability of meeting rooms put an artificial ceiling the number of
   meetings we could have at any time.
@@ -82,7 +82,10 @@ Since I haven't been able to find such a tool, I'm building it in
 
 I am looking for a handful of companies that can test this with me as it's being
 developed. If you're interested, please head over to the [sign up
-page](https://calendaristic.com/signup/) to let me know you're interested!
+page](https://calendaristic.com/signup/) to let me know you're interested! Even
+if this doesn't sound like a product you'd want, if you have thoughts about
+meetings in general and want to chat, hit me up! My email is `brian at this
+domain`.
 
 [^speedy]: 60 minute meetings become 50 minute meetings, 30 minute meetings
 become 25 minute meetings. This is configurable in Google Calendar for users.
