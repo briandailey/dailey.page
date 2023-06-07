@@ -11,7 +11,7 @@ tags:
     - Engineering
 ---
 
-From 2011-2019, the engineering team at Stratasan (where I served as CTO) worked
+From 2011 to 2019, the engineering team at Stratasan (where I served as CTO) worked
 from home at most once a week. In March of 2020, that all changed and we went
 100% distributed.
 
@@ -22,7 +22,7 @@ exit so the new meeting could get started.
 
 This served as a forcing function in a few ways:
 
-- The availability of meeting rooms put an artificial ceiling the number of
+- The availability of meeting rooms put an artificial ceiling on the number of
   meetings we could have at any time.
 - Meetings had to end on time so the room could be made available for the next
   group.
@@ -35,7 +35,7 @@ I'm neutral on whether the above is good or bad. But it did serve to make
 meetings more scarce, and scarcity increases value. If you have fewer meetings,
 it forces you to be more intentional with how the time is spent.
 
-When we moved to remote, all of that disappeared.
+When we left the office, all of that disappeared.
 
 - Meetings proliferated (anecdotally, but with some data to back it
   up). In particular, _recurring_ meetings seemed to proliferate.
