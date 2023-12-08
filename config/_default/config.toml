@@ -11,6 +11,16 @@ DefaultContentLanguage = "en"
 # Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
 # This will make .Summary and .WordCount behave correctly for CJK languages.
 hasCJKLanguage = false
+defaultContentLanguage = "en"
 
 # Change it to your Disqus shortname before using
 disqusShortname = "dailey-page"
+
+[languages]
+  [languages.en]
+    disabled = false
+    languageCode = ''
+    languageDirection = ''
+    languageName = ''
+    title = 'Brian Dailey - Founder, Engineer, Advisor'
+    weight = 0
