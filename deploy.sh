@@ -1,4 +1,4 @@
-#!/bin/env bash
+#!/usr/bin/env bash
 # First, build hugo after clearing the build dir.
 hugo
 
