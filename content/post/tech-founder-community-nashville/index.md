@@ -28,7 +28,7 @@ The short version: existing support networks in Nashville do not target
 engineering audiences.
 
 Nashville does have a lot of great things going for it. Programs like the
-[Nashville Entpreneur Center Pre-Flight](https://www.ec.co/programs/preflight/)
+[Nashville Entrepreneur Center Pre-Flight](https://www.ec.co/programs/preflight/)
 and [Inflight](https://www.ec.co/programs/inflight/) programs are really great
 ways to support growing businesses. However, this tends to support either
 business development types (think MBA graduates) or domain experts. This tends
