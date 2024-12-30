@@ -14,7 +14,7 @@ tags:
 
 When I ended my time at Stratasan in March of 2023, my original goal was to stick to a lighter working schedule that allowed me to spend more time with my (rather large-ish) family. After committing over a decade to a startup, I was ready for a change of pace for a time.
 
-I had two major themes in mind coming into 2024:
+I had two major goals in mind coming into 2024:
 
 - Make "small bets" on side projects that might gain traction (either on my own or with a business partner).
 - Leverage my experience in the healthcare B2B SaaS (yes, it's very specific) sector to earn income.
@@ -27,12 +27,15 @@ What else happened in 2024, broadly speaking?
 - I started [Tech Founder Community](https://techfounder.community) to try to connect with other engineering founders and co-founders.
 - I connected with a _lot_ of people in 2024. I continue to believe that this is the primary way that serendipity strikes. According to Google Calendar, I met with over 400 people in 2024. Calendly was a life-saver here.
     - Many conversations started off with a meeting at some local event (Haley Zapolski and Josh Segall hosted many of these) or events at the Nashville Entrepreneur Center.
-    - A good many of these were referral from folks I have worked with or for in the past. Referrals are the best compliment I can receive!
+    - A good many of these were referrals from folks I have worked with or for in the past. Referrals are the best compliment I can receive!
 
 ## What went well?
 
 - The Nashville CTO Club got off to a _great_ start in September. Kudos to Mr. Segall for being the primary driver of this thing. It's obvious that Josh hosts a lot of events, because he though of a lot of details that I simply would not have considered. It gave this group needed structure.
-- The consulting / fractional business continued to do well. I was able to focus on clients that I felt I offerred the highest value (in my particular niche, relevant to my past experience) and turn down potential work for which I did not feel well-suited. A breakdown of how I billed categories is below.
+- The consulting / fractional business continued to do well. I was able to focus on clients that I felt I offerred the highest value (in my particular niche, relevant to my past experience) and turn down potential work for which I did not feel well-suited. A breakdown of how I billed categories is below. "P&E" is "Product and Engineering" - basically technical due diligence but for an organization instead of an investor.
+
+![Breakdown of how I billed services in 2024.](work-categories-2024.png)
+
 - I was able to (mostly) stick to a four-day-a-week work schedule, which allowed me to prioritize more time with my family.
 - About halfway through the year I found myself doing a lot of interviewing for CTO and VPoE roles (I was the interviewer on behalf of my client). Given that this was somewhat of a rarity when I worked at one company, I used the opportunity to leverage the repitition here in order to improve my interview process. As Annie Dukes said, you can't just gain experience by letting things wash over you; you have to be intentional about it! I feel like intentionally improving on my interviewing skills bore fruit.
 
