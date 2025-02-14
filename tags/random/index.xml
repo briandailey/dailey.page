@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Random on Dailey Missives</title><link>https://dailey.page/tags/random/</link><description>Recent content in Random on Dailey Missives</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Wed, 15 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://dailey.page/tags/random/index.xml" rel="self" type="application/rss+xml"/><item><title>Goodbye Stratasan, Hello World</title><link>https://dailey.page/p/hello-world/</link><pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate><guid>https://dailey.page/p/hello-world/</guid><description>&lt;img src="https://dailey.page/p/hello-world/cover.jpg" alt="Featured image of post Goodbye Stratasan, Hello World" />&lt;p>(I used to blog at &lt;a class="link" href="https://dailytechnology.net" target="_blank" rel="noopener"
+>dailytechnology.net&lt;/a> and will keep the
+old Jekyll-based blog around just for historical purposes.)&lt;/p>
+&lt;p>In 2022, I ended a long tenure working for Stratasan, the company that I
+co-founded with Jason Moore back in 2011. It has been a huge part of my career
+and I doubt I will ever get to experience anything like it again.&lt;sup id="fnref:1">&lt;a href="#fn:1" class="footnote-ref" role="doc-noteref">1&lt;/a>&lt;/sup>&lt;/p>
+&lt;p>I say that not because it was a successful company but because of the kinds of
+people I got to work with. Ten years from now, I won&amp;rsquo;t remember much about the
+business strategy, the technical architecture, the effort we put into solid
+ecurity patterns, or the roadmap priorities. What I&amp;rsquo;ll remember is the people,
+and how it felt to work with them.&lt;/p>
+&lt;p>Stratasan was special because our engineering and product
+teams had a very high level of trust. If you have spent much time with Jason Moore, you
+would learn that he is a special kind of leader. A lot of leaders like you to
+think they know absolutely everything. Leaders must project confidence, yes, but
+they also need to acknowledge that they can&amp;rsquo;t know &lt;em>everything&lt;/em>, and Jason Moore
+walked that balance very well. Since leaders set the tone for the rest of the
+company, this vulnerability cascaded down to new hires and became part of our culture.&lt;/p>
+&lt;p>I learned a lot at Stratasan. Every year or so my job description completely
+changed. There are some things that I would have done differently. As an
+engineer, I was used to fast feedback: if you do something silly, hopefully you
+have some unit tests that fail and you go fix it. Management is completely
+different. When you do something stupid, sometimes you don&amp;rsquo;t know just how
+stupid it was for weeks or even months. When I did make a mistake, I tried to
+learn from it.&lt;sup id="fnref:2">&lt;a href="#fn:2" class="footnote-ref" role="doc-noteref">2&lt;/a>&lt;/sup>&lt;/p>
+&lt;p>What&amp;rsquo;s next for me? I&amp;rsquo;m not really sure. At this time, I have many personal
+things that require my attention, so I am taking a pause to reassess my
+priorities and decide what I want to spend my time on next. One thing I do know
+that I&amp;rsquo;d like to do again is write, so that&amp;rsquo;s why I&amp;rsquo;ve set this up.&lt;/p>
+&lt;p>See you next time!&lt;/p>
+&lt;p>&lt;img src="https://dailey.page/p/hello-world/jason-and-brian.jpg"
+width="1024"
+height="683"
+srcset="https://dailey.page/p/hello-world/jason-and-brian_hu398f2a18524d824b84672300879572c6_82599_480x0_resize_q75_box.jpg 480w, https://dailey.page/p/hello-world/jason-and-brian_hu398f2a18524d824b84672300879572c6_82599_1024x0_resize_q75_box.jpg 1024w"
+loading="lazy"
+alt="Jason and Brian"
+class="gallery-image"
+data-flex-grow="149"
+data-flex-basis="359px"
+>&lt;/p>
+&lt;div class="footnotes" role="doc-endnotes">
+&lt;hr>
+&lt;ol>
+&lt;li id="fn:1">
+&lt;p>I wrote a &lt;a class="link" href="https://dailytechnology.net/management/2021/04/26/ten-years-at-stratasan" target="_blank" rel="noopener"
+>10-year retrospective of my time at Stratasan
+here&lt;/a>&amp;#160;&lt;a href="#fnref:1" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li id="fn:2">
+&lt;p>I enjoyed McArdle&amp;rsquo;s &amp;ldquo;The Up Side of Down&amp;rdquo;. &lt;a class="link" href="https://www.econtalk.org/mcardle-on-failure-success-and-the-up-side-of-down/" target="_blank" rel="noopener"
+>This EconTalk
+podcast&lt;/a>
+is a great summary.&amp;#160;&lt;a href="#fnref:2" class="footnote-backref" role="doc-backlink">&amp;#x21a9;&amp;#xfe0e;&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;/div></description></item></channel></rss>
