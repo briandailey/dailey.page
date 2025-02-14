@@ -19,3 +19,4 @@ jobs:
         args: --gc --minify
       env:
         GITHUB_TOKEN: ${{ secrets.MY_PERSONAL_TOKEN }}
+        GITHUB_BRANCH: static
