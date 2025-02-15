@@ -96,4 +96,4 @@ More information can be found
   alleviate. Tips on this can be found
   [here](https://news.stanford.edu/2021/02/23/four-causes-zoom-fatigue-solutions/).
 
-> Photo by <a href="https://unsplash.com/@gainingvisuals?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Gaining Visuals</a> on <a href="https://unsplash.com/photos/wKu5yvAT0bg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+> Photo by [Gaining Visuals](https://unsplash.com/@gainingvisuals?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on Unsplash
