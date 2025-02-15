@@ -13,7 +13,7 @@ jobs:
       with:
         submodules: true
     - name: build
-      uses: briandailey/actions-hugo@master
+      uses: briandailey/actions-hugo@v0.140.1
       if: github.event.deleted == false
       with:
         args: --gc --minify
