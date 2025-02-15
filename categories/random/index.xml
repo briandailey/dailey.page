@@ -1,4 +1,82 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Random on Dailey Missives</title><link>https://dailey.page/categories/random/</link><description>Recent content in Random on Dailey Missives</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Wed, 15 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://dailey.page/categories/random/index.xml" rel="self" type="application/rss+xml"/><item><title>Goodbye Stratasan, Hello World</title><link>https://dailey.page/p/hello-world/</link><pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate><guid>https://dailey.page/p/hello-world/</guid><description>&lt;img src="https://dailey.page/p/hello-world/cover.jpg" alt="Featured image of post Goodbye Stratasan, Hello World" />&lt;p>(I used to blog at &lt;a class="link" href="https://dailytechnology.net" target="_blank" rel="noopener"
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Random on Dailey Missives</title><link>https://dailey.page/categories/random/</link><description>Recent content in Random on Dailey Missives</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Fri, 14 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dailey.page/categories/random/index.xml" rel="self" type="application/rss+xml"/><item><title>How This Blog Works</title><link>https://dailey.page/p/how-this-blog-works/</link><pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate><guid>https://dailey.page/p/how-this-blog-works/</guid><description>&lt;img src="https://dailey.page/p/how-this-blog-works/cover.jpg" alt="Featured image of post How This Blog Works" />&lt;p>This serves as documentation for my future self as well as an explanation that
+might be useful for others. If you want to set up a Hugo-based blog that creates
+a nice static site and publishes without too much work, then this is one way to
+do it.&lt;/p>
+&lt;p>There are a few components:&lt;/p>
+&lt;ul>
+&lt;li>The Blogging Framework (how posts get created)&lt;/li>
+&lt;li>The UI&lt;/li>
+&lt;li>Automatic Publishing&lt;/li>
+&lt;li>Automatic Deployment&lt;/li>
+&lt;/ul>
+&lt;h2 id="the-blogging-framework">The Blogging Framework&lt;/h2>
+&lt;p>I&amp;rsquo;m using &lt;a class="link" href="https://gohugo.io/" target="_blank" rel="noopener"
+>Hugo&lt;/a>. It allows me to write blog posts as
+&lt;a class="link" href="https://www.markdownguide.org/basic-syntax/" target="_blank" rel="noopener"
+>Markdown&lt;/a> (in my &lt;a class="link" href="https://www.vim.org/" target="_blank" rel="noopener"
+>favorite
+text editor&lt;/a>). Using that Markdown, it builds all of the
+HTML in my chosen theme, along with all of the menu navigation, tagging, RSS
+feeds, etc. It&amp;rsquo;s quite nice!&lt;/p>
+&lt;p>I also keep everything in version control via &lt;a class="link" href="https://git-scm.com/" target="_blank" rel="noopener"
+>git&lt;/a>. That
+allows me to track changes over time. All of the files used to generate the site
+are &lt;a class="link" href="https://github.com/briandailey/dailey.page/" target="_blank" rel="noopener"
+>on GitHub&lt;/a> which serves as
+both a backup and a way to automate publishing and deployment (more about that below).&lt;/p>
+&lt;h2 id="the-ui">The UI&lt;/h2>
+&lt;p>I&amp;rsquo;m using &lt;a class="link" href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener"
+>Hugo Theme Stack&lt;/a> by
+Jimmy Cai. It looks nice, and I&amp;rsquo;m generally terrible at front-end design.&lt;/p>
+&lt;h2 id="automated-publishing">Automated Publishing&lt;/h2>
+&lt;p>When you write content for Hugo, there&amp;rsquo;s a &lt;a class="link" href="https://gohugo.io/commands/hugo_build/" target="_blank" rel="noopener"
+>build
+step&lt;/a> that you run to generate the site.
+The simplest way to do this is to just run it locally and copy the resulting
+files somewhere (like Cloudfront or Amazon S3). If you do this, you need to
+remember the build command, any specific parameters for your build, etc. I got
+into programming because I hate tedium, and that, my friend, is &lt;em>tedious&lt;/em>.&lt;/p>
+&lt;p>I&amp;rsquo;ve been spoiled by modern build systems where I need only push my changes to
+the main branch on GitHub and the robots do the rest. So let&amp;rsquo;s do that!&lt;/p>
+&lt;p>I used an &lt;a class="link" href="https://github.com/marketplace/actions/hugo-gh-pages-action" target="_blank" rel="noopener"
+>existing action in the GitHub
+Marketplace&lt;/a> and
+forked it to &lt;a class="link" href="https://github.com/briandailey/actions-hugo/" target="_blank" rel="noopener"
+>my own repo&lt;/a> to make
+a &lt;a class="link" href="https://github.com/briandailey/actions-hugo/commit/3246cff7d82dfba2cf8f8518948e794a72aba14f" target="_blank" rel="noopener"
+>slight
+modification&lt;/a>
+in order to override which branch we&amp;rsquo;re pushing the published works to. In this
+case, I didn&amp;rsquo;t want to use &lt;code>gh-pages&lt;/code> because I want to publish the static site
+to Cloudflare using the &lt;code>static&lt;/code> branch.&lt;/p>
+&lt;h2 id="automated-deployment">Automated Deployment&lt;/h2>
+&lt;p>Cloudflare has a &lt;a class="link" href="https://mattsayar.com/why-does-cloudflare-pages-have-such-a-generous-free-tier/" target="_blank" rel="noopener"
+>very generous free
+tier&lt;/a>
+that makes it really easy to publish static content from GitHub to a domain.
+Once you have an account, you&amp;rsquo;ll find it under &amp;ldquo;Compute (Workers)&amp;rdquo; and then
+&amp;ldquo;Workers &amp;amp; Pages.&amp;rdquo; From there, you can create a Page and hook it up to a
+specific GitHub repository and branch. In this case, I hooked it up to the
+&lt;code>static&lt;/code> branch. Once you assign all of the permissions and get the custom
+domain set up, Cloudflare takes care of the rest.&lt;/p>
+&lt;h2 id="wrapping-it-all">Wrapping It All&lt;/h2>
+&lt;p>So that&amp;rsquo;s it! Now when I want to publish a new post, I edit the files locally,
+commit the changes and push them to the main branch on GitHub. From there,
+GitHub builds the files and publishes to another branch, where Cloudflare picks
+it up to host on their free tier.&lt;/p>
+&lt;h2 id="bonus-automated-rss-ingestion-for-weekly-posts">Bonus: Automated RSS Ingestion for &amp;ldquo;Weekly Posts&amp;rdquo;&lt;/h2>
+&lt;p>Inspired by the &amp;ldquo;&lt;a class="link" href="https://marginalrevolution.com/marginalrevolution/2025/02/friday-assorted-links-508.html" target="_blank" rel="noopener"
+>assorted links&lt;/a>&amp;rdquo;
+on Marginal Revolution and the &amp;ldquo;Highlights&amp;rdquo; on &lt;a class="link" href="https://simonwillison.net/" target="_blank" rel="noopener"
+>Simon Willison&amp;rsquo;s
+blog&lt;/a>, I wanted to aggregate interesting things I
+found during the week into a single post. To do this, I wrote a really &lt;a class="link" href="https://github.com/briandailey/weeklylink" target="_blank" rel="noopener"
+>terrible
+little script&lt;/a> to accumulate links
+that I post to &lt;a class="link" href="https://pinboard.in/" target="_blank" rel="noopener"
+>Pinboard&lt;/a> with the &amp;ldquo;interesting&amp;rdquo; tag. You
+can see what the first post created in this manner
+&lt;a class="link" href="https://dailey.page/p/weekly-assorted-things-2025-02-14/" >here&lt;/a>.&lt;/p></description></item><item><title>Goodbye Stratasan, Hello World</title><link>https://dailey.page/p/hello-world/</link><pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate><guid>https://dailey.page/p/hello-world/</guid><description>&lt;img src="https://dailey.page/p/hello-world/cover.jpg" alt="Featured image of post Goodbye Stratasan, Hello World" />&lt;p>(I used to blog at &lt;a class="link" href="https://dailytechnology.net" target="_blank" rel="noopener"
 >dailytechnology.net&lt;/a> and will keep the
 old Jekyll-based blog around just for historical purposes.)&lt;/p>
 &lt;p>In 2022, I ended a long tenure working for Stratasan, the company that I
