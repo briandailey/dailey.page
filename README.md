@@ -4,14 +4,5 @@
 
 ### Starting
 
-- Use Docker to use hugo v0.111.0
-- Recommend [klakegg/docker-hugo](https://github.com/klakegg/docker-hugo) since
-  that's what we're using to deploy this in the GitHub action.
-
-```
-docker run --rm -it \
-  -v $(pwd):/src \
-  -p 1313:1313 \
-  klakegg/hugo:ext-alpine \
-  server
-```
+- Currently using [Hugo v0.111.3](https://github.com/gohugoio/hugo/releases/tag/v0.111.3)
+  due to the Docker instance for deployment.
