@@ -13,8 +13,7 @@ tags:
 
 1. [Intelligence and individual differences in astrological belief.](https://psycnet.apa.org/record/2025-82101-002)\
   “Of our psychological measures we find intelligence, as measured with Wordsum, to have the largest effect size, negatively predicting belief in astrology. Education also predicts disbelief, supporting the “superficial knowledge” hypothesis. Measures of religiosity and spirituality had null effects, in contradiction of the “metaphysical uncertainty” hypothesis that a need for metaphysical beliefs causes one to believe in astrology. We find that right-wing individuals are less likely to believe in astrology, in contradiction to Theodore W. Adorno’s “authoritarian” of astrology. We also find no effect scientific trust on astrological belief. “
-
-Oof. Via Tyler Cowen.
+  Oof. Via Tyler Cowen.
 1. [My LLM codegen workflow atm | Harper Reed's Blog](https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/)\
   Really great overview. Golden age for indie devs?
 1. [New York Times goes all-in on internal AI tools | Semafor](https://www.semafor.com/article/02/16/2025/new-york-times-goes-all-in-on-internal-ai-tools)\
