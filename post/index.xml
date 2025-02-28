@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Dailey Missives</title><link>https://dailey.page/post/</link><description>Recent content in Posts on Dailey Missives</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Fri, 14 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dailey.page/post/index.xml" rel="self" type="application/rss+xml"/><item><title>How This Blog Works</title><link>https://dailey.page/p/how-this-blog-works/</link><pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate><guid>https://dailey.page/p/how-this-blog-works/</guid><description>&lt;img src="https://dailey.page/p/how-this-blog-works/cover.jpg" alt="Featured image of post How This Blog Works" />&lt;p>This serves as documentation for my future self as well as an explanation that
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Dailey Missives</title><link>https://dailey.page/post/</link><description>Recent content in Posts on Dailey Missives</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Thu, 27 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dailey.page/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Weekly Assorted Things</title><link>https://dailey.page/p/weekly-assorted-things-2025-02-27/</link><pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate><guid>https://dailey.page/p/weekly-assorted-things-2025-02-27/</guid><description>&lt;ol>
+&lt;li>&lt;a class="link" href="https://psycnet.apa.org/record/2025-82101-002" target="_blank" rel="noopener"
+>Intelligence and individual differences in astrological belief.&lt;/a>&lt;br>
+“Of our psychological measures we find intelligence, as measured with Wordsum, to have the largest effect size, negatively predicting belief in astrology. Education also predicts disbelief, supporting the “superficial knowledge” hypothesis. Measures of religiosity and spirituality had null effects, in contradiction of the “metaphysical uncertainty” hypothesis that a need for metaphysical beliefs causes one to believe in astrology. We find that right-wing individuals are less likely to believe in astrology, in contradiction to Theodore W. Adorno’s “authoritarian” of astrology. We also find no effect scientific trust on astrological belief. “&lt;/li>
+&lt;/ol>
+&lt;p>Oof. Via Tyler Cowen.&lt;/p>
+&lt;ol>
+&lt;li>&lt;a class="link" href="https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/" target="_blank" rel="noopener"
+>My LLM codegen workflow atm | Harper Reed&amp;rsquo;s Blog&lt;/a>&lt;br>
+Really great overview. Golden age for indie devs?&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.semafor.com/article/02/16/2025/new-york-times-goes-all-in-on-internal-ai-tools" target="_blank" rel="noopener"
+>New York Times goes all-in on internal AI tools | Semafor&lt;/a>&lt;br>
+From actively suing to actively using. Interesting pivot. As an NYT subscriber, I look forward to seeing how it pans out.&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.oreilly.com/radar/ai-essentials-for-tech-executives/" target="_blank" rel="noopener"
+>AI Essentials for Tech Executives&lt;/a>&lt;br>
+Lots of useful stuff here, particularly around testing.&lt;/li>
+&lt;li>&lt;a class="link" href="https://simonwillison.net/2025/Feb/15/llm-mlx/" target="_blank" rel="noopener"
+>Run LLMs on macOS using llm-mlx and Apple’s MLX framework&lt;/a>&lt;br>
+Leveraging Apple silicon. I will certainly hone this a spin on my machine.&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.theatlantic.com/ideas/archive/2025/02/career-civil-servant-end/681712/" target="_blank" rel="noopener"
+>The Death of Government Expertise (The Atlantic)&lt;/a>&lt;br>
+“Populists are generally wary of experts, especially those who work for the government, but Musk is no man of the people: He is the richest human being in the world, and he runs major companies that rely both on government-provided expertise and significant government subsidies. As my colleague Anne Applebaum wrote, “Musk has made no attempt to professionally audit or even understand many of the programs being cut”—a willful indifference that gives away the game.”&lt;/li>
+&lt;/ol></description></item><item><title>How This Blog Works</title><link>https://dailey.page/p/how-this-blog-works/</link><pubDate>Fri, 14 Feb 2025 00:00:00 +0000</pubDate><guid>https://dailey.page/p/how-this-blog-works/</guid><description>&lt;img src="https://dailey.page/p/how-this-blog-works/cover.jpg" alt="Featured image of post How This Blog Works" />&lt;p>This serves as documentation for my future self as well as an explanation that
 might be useful for others. If you want to set up a Hugo-based blog that creates
 a nice static site and publishes without too much work, then this is one way to
 do it.&lt;/p>
