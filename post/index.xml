@@ -1,4 +1,49 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Dailey Missives</title><link>https://dailey.page/post/</link><description>Recent content in Posts on Dailey Missives</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Thu, 27 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dailey.page/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Weekly Assorted Things</title><link>https://dailey.page/p/weekly-assorted-things-2025-02-27/</link><pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate><guid>https://dailey.page/p/weekly-assorted-things-2025-02-27/</guid><description>&lt;ol>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Dailey Missives</title><link>https://dailey.page/post/</link><description>Recent content in Posts on Dailey Missives</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Fri, 21 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dailey.page/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Two LinkedIn Frustrations</title><link>https://dailey.page/p/linkedins-walled-garden/</link><pubDate>Fri, 21 Mar 2025 00:00:00 +0000</pubDate><guid>https://dailey.page/p/linkedins-walled-garden/</guid><description>&lt;img src="https://dailey.page/p/linkedins-walled-garden/cover.jpg" alt="Featured image of post Two LinkedIn Frustrations" />&lt;p>I have a love/hate relationship with LinkedIn. It is full of useless noise, but
+it&amp;rsquo;s a great way to keep up with colleagues and interesting people working in my
+field. Here are two major frustrations with the platform that diminish its
+utility to me.&lt;/p>
+&lt;ul>
+&lt;li>Like most social media, the signal-to-noise ratio on LinkedIn is quite low.
+Most posts are either self-congratulatory, AI slop, or simply some variation
+of an existing Business Meme (&amp;ldquo;I replaced an entire team of developers with
+AI!&amp;rdquo; &amp;ldquo;SaaS is dead!&amp;rdquo; etc). I wish I could filter my feed down to a subset of
+users that I find actually informative. For example, &lt;a class="link" href="https://www.linkedin.com/in/shreyasdoshi/" target="_blank" rel="noopener"
+>Shreyas
+Doshi&lt;/a> either writes or shares
+excellent content around product management. &lt;a class="link" href="https://www.linkedin.com/in/edwardmelendez/" target="_blank" rel="noopener"
+>Ed
+Melendez&lt;/a> constantly posts a
+highly eclectic variety of things I find interesting. I can follow both of
+these people, but since the Feed is algorithmic, I might not see anything they
+post for days or weeks and it will be surrounded by useless slop. There&amp;rsquo;s no
+way to build an RSS feed for an individual&amp;rsquo;s LinkedIn
+activity, so I am simply at the mercy of the almighty algorithm as to when or
+where I might see these posts. It probably doesn&amp;rsquo;t help that as a long-time
+LinkedIn user I&amp;rsquo;m connected to thousands of users, making my Feed particularly
+noisy.&lt;/li>
+&lt;li>Let&amp;rsquo;s say I do see something interesting in my Feed and I leave the post for
+another page. When I return to the feed (via a browser &amp;ldquo;Back&amp;rdquo; button)
+everything in my Feed is reshuffled and the original item is lost in the
+abyss. This is particularly frustrating on a
+mobile device where I might be scrolling through the Feed, be interrupted by
+an email or something. When I return to the Feed, the page automatically
+reloads, losing everything I was looking at and giving me a whole new set of
+slop to scroll through.&lt;/li>
+&lt;/ul>
+&lt;p>All in all, I still find LinkedIn useful enough that I continue to visit it on a
+fairly regular basis (while successfully ignoring most of the notifications).&lt;/p>
+&lt;p>I still consume most of my content via old-school RSS (via Feedly) and wish that
+LinkedIn would make it easier for users to publish content to publicly
+accessible feeds. It makes sense that they would want a walled garden with
+algorithm-driven content (I assume &amp;ldquo;time on site&amp;rdquo; is some Director&amp;rsquo;s KPI) but
+this approach continues to diminish the utility of any content posted on
+LinkedIn.&lt;/p>
+&lt;p>Due to this conflict of incentives, my approach is to post (most) everything I
+write both on LinkedIn and on my blog.&lt;/p>
+&lt;blockquote>
+&lt;p>Photo by &lt;a class="link" href="https://unsplash.com/photos/dramatic-mountains-under-a-cloudy-moody-sky-9DyNN_Yz2yk?utm_content=creditShareLink&amp;amp;utm_medium=referral&amp;amp;utm_source=unsplash" target="_blank" rel="noopener"
+>Karsten Winegeart on Unsplash&lt;/a>&lt;/p>
+&lt;/blockquote></description></item><item><title>Weekly Assorted Things</title><link>https://dailey.page/p/weekly-assorted-things-2025-02-27/</link><pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate><guid>https://dailey.page/p/weekly-assorted-things-2025-02-27/</guid><description>&lt;ol>
 &lt;li>&lt;a class="link" href="https://psycnet.apa.org/record/2025-82101-002" target="_blank" rel="noopener"
 >Intelligence and individual differences in astrological belief.&lt;/a>&lt;br>
 “Of our psychological measures we find intelligence, as measured with Wordsum, to have the largest effect size, negatively predicting belief in astrology. Education also predicts disbelief, supporting the “superficial knowledge” hypothesis. Measures of religiosity and spirituality had null effects, in contradiction of the “metaphysical uncertainty” hypothesis that a need for metaphysical beliefs causes one to believe in astrology. We find that right-wing individuals are less likely to believe in astrology, in contradiction to Theodore W. Adorno’s “authoritarian” of astrology. We also find no effect scientific trust on astrological belief. “
