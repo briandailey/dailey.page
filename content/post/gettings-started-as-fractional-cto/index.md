@@ -1,7 +1,7 @@
 ---
 title: Getting Started As A Fractional CTO
 description: There are quite a few folks who have asked me about this. Here's the short version of how I got started, and some advice for those considering it.
-slug: getting-started-as-a-fractiona-cto
+slug: getting-started-as-a-fractional-cto
 date: 2025-03-23 00:00:00+0000
 image: cover.jpg
 categories:
