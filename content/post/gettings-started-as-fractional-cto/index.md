@@ -110,7 +110,7 @@ engagement.
 
 ## You do all the things.
 
-Sales. Marketing. Accounting. Bill collection. As a solo practioner, you do _all
+Sales. Marketing. Accounting. Bill collection. As a solo practitioner, you do _all
 the things_. That eats into the time that you'll spend doing the thing you love,
 but it's part of the deal!
 
@@ -188,6 +188,10 @@ scratch!
   Slack](https://randsinrepose.com/welcome-to-rands-leadership-slack/). They
   host a virtual coffee bi-weekly.
 
-If you read all this and you stil have questions, shoot me an email! I'm happy
+If you read all this and you still have questions, shoot me an email! I'm happy
 to answer additional questions, and I can update this blog post with more
 information in the future.
+
+> Photo by [John
+> Towner](https://unsplash.com/photos/empty-concrete-road-covered-surrounded-by-tall-tress-with-sun-rays-3Kv48NS4WUU)
+> on Unsplash.
