@@ -1,4 +1,147 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Business on Dailey Missives</title><link>https://dailey.page/categories/business/</link><description>Recent content in Business on Dailey Missives</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Mon, 30 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://dailey.page/categories/business/index.xml" rel="self" type="application/rss+xml"/><item><title>2024 in Retrospective</title><link>https://dailey.page/p/2024-in-retro/</link><pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate><guid>https://dailey.page/p/2024-in-retro/</guid><description>&lt;img src="https://dailey.page/p/2024-in-retro/cover.jpg" alt="Featured image of post 2024 in Retrospective" />&lt;h1 id="2024-retrospective-creo">2024 Retrospective (Creo)&lt;/h1>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Business on Dailey Missives</title><link>https://dailey.page/categories/business/</link><description>Recent content in Business on Dailey Missives</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Sun, 23 Mar 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dailey.page/categories/business/index.xml" rel="self" type="application/rss+xml"/><item><title>Getting Started As A Fractional CTO</title><link>https://dailey.page/p/getting-started-as-a-fractiona-cto/</link><pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate><guid>https://dailey.page/p/getting-started-as-a-fractiona-cto/</guid><description>&lt;img src="https://dailey.page/p/getting-started-as-a-fractiona-cto/cover.jpg" alt="Featured image of post Getting Started As A Fractional CTO" />&lt;blockquote>
+&lt;p>&amp;ldquo;Whenever you find yourself saying something for a second time (to a second
+audience or in a second situation), it is highly likely that you will send up
+saying it again and again in the future. To vastly improve the quality of the
+communication and reduce the amount of time that you spend communicating the
+information, &lt;em>write it down&lt;/em>.&lt;/p>
+&lt;p>&amp;mdash; Matt Mochary in &amp;ldquo;The Great CEO Within&amp;rdquo;, p. 22&lt;/p>
+&lt;/blockquote>
+&lt;p>I&amp;rsquo;ve been doing the &lt;a class="link" href="https://dailey.page/p/wide-world-of-the-fractional-cto/" >fractional CTO (fCTO)
+thing&lt;/a> for about &lt;a class="link" href="https://dailey.page/p/2024-in-retro/" >two
+years&lt;/a> now, and I
+get quite a few people who ask me about how I got things started. Given the
+&lt;a class="link" href="https://fred.stlouisfed.org/series/IHLIDXUSTPSOFTDEVE" target="_blank" rel="noopener"
+>rapid reduction in available software development-related
+positions&lt;/a>, it makes
+sense that there are quite a few who are considering &lt;a class="link" href="https://idioms.thefreedictionary.com/hang&amp;#43;out&amp;#43;shingle" target="_blank" rel="noopener"
+>hanging out a
+shingle&lt;/a>.&lt;/p>
+&lt;p>I enjoy discussing this with folks, but my policy on these things is that if I
+find myself repeating the same material, I should probably save myself and
+everyone else a lot of time by just writing it down! This is my attempt to do
+that.&lt;/p>
+&lt;p>Much of this advice on getting started is really applicable to anyone doing any
+kind of consulting.&lt;/p>
+&lt;h1 id="how-should-i-get-started">How should I get started?&lt;/h1>
+&lt;h2 id="have-the-experience">Have the experience.&lt;/h2>
+&lt;p>I don&amp;rsquo;t have data on this, but I get the sense that the demand for fractional
+leadership has gone up since 2022. Supply has risen to meet that demand.
+However, a fair portion of the supply (of fractional leaders) has never actually been in a leadership
+position. When I ask clients why they choose to work with me, many of them
+have pointed at my experience as both a founder and a leader. A
+departmental manager at BigCorp might carve out a reputation as a team leader,
+but someone with very little (or no) prior leadership experience might find it
+difficult to find a toehold in a crowded market.&lt;/p>
+&lt;h2 id="find-a-niche">Find a niche.&lt;/h2>
+&lt;p>One common issue I see with folks getting started is that they make no
+real attempts at defining where they can truly add value. I get that it&amp;rsquo;s
+tempting to do All The Things when you first get started - after all, you need
+to get paid and eat! If you specify a niche (industry, stage of
+company, B2B or B2C, SaaS or otherwise, or some combination of these things)
+you can start to figure out who you should be marketing and talking to. Speaking
+of talking&amp;hellip;&lt;/p>
+&lt;h2 id="talk-to-a-lot-of-people">Talk to a lot of people.&lt;/h2>
+&lt;p>I get it, sales is hard (especially if you are an introverted engineer-type like
+me), but if you&amp;rsquo;re going solo then you&amp;rsquo;re also the salesperson.&lt;/p>
+&lt;p>The easiest way to figure out how many conversations you need to have is to
+take some notes from the SaaS sales playbook. First, figure out what your annual
+revenue target is. Next, determine what your average fractional engagement will
+net you. (If you&amp;rsquo;re just getting started, it&amp;rsquo;s going to be fuzzy math, but
+that&amp;rsquo;s ok! You can adjust this as you get more information.) Keep all of your
+opportunities in a CRM (HubSpot&amp;rsquo;s free tier is pretty good for a solo operation)
+and use that information to determine what ratio of conversations you have to
+close an engagement. Your sample size may be rather small, but again, fuzzy math
+is okay.&lt;/p>
+&lt;p>For myself, I&amp;rsquo;ve found that I need to have maybe 2-3 conversations a week with
+various folks in my industry. Those are not sales conversations, and they
+are very unlikely to end in an engagement. But if I&amp;rsquo;m having conversations with
+the right people, each meeting is a person who might know someone else needing
+my help. They could be a source for a warm lead.&lt;/p>
+&lt;h2 id="have-some-sample-proposals-and-deliverables-ready">Have some sample proposals (and deliverables) ready.&lt;/h2>
+&lt;p>I have found it to be useful to have several different sample proposals on hand.
+It provides potential clients with an idea of how I approach engagements (clear
+terms, flat rates, etc) and makes them more comfortable with the idea of working
+with me.&lt;/p>
+&lt;h2 id="start-with-projects-before-going-open-ended">Start with projects before going open-ended.&lt;/h2>
+&lt;p>For me, fCTO engagements are completely open-ended. I&amp;rsquo;m only taking on two
+clients at a time, and generally they are a day or two (sometimes more) per week
+in, for which I am billing a weekly rate. However, that&amp;rsquo;s a lot to sign on for
+if you&amp;rsquo;ve not worked with me before.&lt;/p>
+&lt;p>To establish trust, I&amp;rsquo;ll often start a relationship with a well-defined project.
+Having a well-scoped project with a discrete (written) deliverable familiarizes
+clients with my working style (and me with theirs).&lt;/p>
+&lt;h2 id="keep-the-pipeline-going">Keep the pipeline going.&lt;/h2>
+&lt;p>If you pick up one or two projects, it&amp;rsquo;s easy to get so involved in them that
+you forget to keep talking to folks about potential future projects. When you
+finish the project, you don&amp;rsquo;t want to be in a mad scramble to find your next
+engagement.&lt;/p>
+&lt;h1 id="what-do-_not_-you-like-about-being-a-fractional-cto">What do &lt;em>not&lt;/em> you like about being a Fractional CTO?&lt;/h1>
+&lt;h2 id="you-do-all-the-things">You do all the things.&lt;/h2>
+&lt;p>Sales. Marketing. Accounting. Bill collection. As a solo practioner, you do &lt;em>all
+the things&lt;/em>. That eats into the time that you&amp;rsquo;ll spend doing the thing you love,
+but it&amp;rsquo;s part of the deal!&lt;/p>
+&lt;h2 id="staying-fresh-requires-intentionality">Staying fresh requires intentionality.&lt;/h2>
+&lt;p>You&amp;rsquo;ll no doubt learn new things just engaging with clients, but to stay on top
+of industry trends (both technology and whatever domain you&amp;rsquo;re working in) you
+will have to allocate some time to ongoing self-education. It&amp;rsquo;s easy to skip
+this part, but don&amp;rsquo;t! Your continued usefulness &lt;em>depends&lt;/em> on staying current.&lt;/p>
+&lt;h2 id="you-trade-depth-for-breadth">You trade depth for breadth.&lt;/h2>
+&lt;p>When you&amp;rsquo;re consulting, you rarely get to spend enough time with one
+project (maybe 3-6 months for most of my engagements) to go really deep. Instead, you
+get exposed to a broad array of industry niches, architectures, languages, and
+product categories.&lt;/p>
+&lt;p>There&amp;rsquo;s a trade-off here. I enjoyed going deep for 13 years (from first line of
+code to exit) with Stratasan. I also enjoy the variety inherent to consulting.
+Ideally, one could switch between depth and breadth every 5-7 years.&lt;/p>
+&lt;h2 id="there-will-be-juggling">There will be juggling.&lt;/h2>
+&lt;p>I take on no more than two fractional engagements at any time due to this. I
+also stress to potential clients that it&amp;rsquo;s &lt;em>fractional&lt;/em>, not &lt;em>interim.&lt;/em> This
+means I am not always immediately available, but I do clearly communicate
+my availability with all clients via Calendly.&lt;/p>
+&lt;h1 id="what-do-you-love-about-fractional-leadership">What do you love about fractional leadership?&lt;/h1>
+&lt;h2 id="i-love-strategy">I love strategy.&lt;/h2>
+&lt;p>As a fractional chief &lt;em>technology&lt;/em> officer, I would presumably be working on
+engineering strategy. However, I find that when I start asking questions I often
+start edging into &lt;em>business strategy&lt;/em>, which I love. There&amp;rsquo;s nothing more
+satisfying to me than a client asking me to sit in on one of their annual or
+quarterly strategic planning sessions!&lt;/p>
+&lt;h2 id="i-love-the-autonomy">I love the autonomy.&lt;/h2>
+&lt;p>I get to choose the clients I work with, and I&amp;rsquo;m fairly picky about it. I only
+want to work with companies that I feel I can provide an unusual level of value
+(e.g., sticking to my niche of early-ish stage healthcare B2B SaaS). That makes
+the work both more satisfying to me and more valuable to my clients.&lt;/p>
+&lt;h2 id="i-love-the-security">I love the security.&lt;/h2>
+&lt;p>Assuming you are able to keep the pipeline going, there&amp;rsquo;s a lot more security in
+having six or seven ongoing clients (between fractional CTO, advisory, and
+project work) rather than putting all your eggs in one basket for a single
+company.&lt;/p>
+&lt;h2 id="i-love-the-variety">I love the variety.&lt;/h2>
+&lt;p>I get bored fairly easily, so I love it when I can hit several interesting
+engagements in a single year. They will probably be in healthcare, but they
+could otherwise be completely unlike (different technology stacks, different
+business problems, different company cultures and problems they are facing). I
+thrive on this variety.&lt;/p>
+&lt;h1 id="parting-thoughts">Parting Thoughts&lt;/h1>
+&lt;p>If you have an appetite for it, I believe fractional leadership can be very
+fulfilling.&lt;/p>
+&lt;p>If you&amp;rsquo;re thinking about striking out as an fCTO, there are a lot of resources
+already out there to get you going. You don&amp;rsquo;t have to learn everything from
+scratch!&lt;/p>
+&lt;ul>
+&lt;li>Check out &lt;a class="link" href="https://www.linkedin.com/in/draistrick/" target="_blank" rel="noopener"
+>David Riastrick&lt;/a>. He
+writes regularly about fractional CTO work on LinkedIn and elsewhere.
+He also has an email newsletter you can sign up for
+&lt;a class="link" href="https://davidraistrick.com/subscribe/" target="_blank" rel="noopener"
+>here&lt;/a>.&lt;/li>
+&lt;li>Check out the #fractional-cto-vpe channel on &lt;a class="link" href="https://randsinrepose.com/welcome-to-rands-leadership-slack/" target="_blank" rel="noopener"
+>Rands Leadership
+Slack&lt;/a>. They
+host a virtual coffee bi-weekly.&lt;/li>
+&lt;/ul>
+&lt;p>If you read all this and you stil have questions, shoot me an email! I&amp;rsquo;m happy
+to answer additional questions, and I can update this blog post with more
+information in the future.&lt;/p></description></item><item><title>2024 in Retrospective</title><link>https://dailey.page/p/2024-in-retro/</link><pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate><guid>https://dailey.page/p/2024-in-retro/</guid><description>&lt;img src="https://dailey.page/p/2024-in-retro/cover.jpg" alt="Featured image of post 2024 in Retrospective" />&lt;h1 id="2024-retrospective-creo">2024 Retrospective (Creo)&lt;/h1>
 &lt;p>When I ended my time at Stratasan in March of 2023, my original goal was to stick to a lighter working schedule that allowed me to spend more time with my (rather large-ish) family. After committing over a decade to a startup, I was ready for a change of pace for a time.&lt;/p>
 &lt;p>I had two major goals in mind coming into 2024:&lt;/p>
 &lt;ul>
