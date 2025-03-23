@@ -10,7 +10,7 @@ image: cover.jpg
 ---
 
 Hi! 👋🏻 My name is Brian and I'm an engineering lead, technology advisor, and
-community member of Nashville, Tennessee. My family (wife and five kids) have
+community member of Nashville, Tennessee. My family (wife and six kids) have
 called Nashville home since 2009. Previously, we lived in Queens, NY.
 
 I have an extensive background in software engineering, engineering leadership,
