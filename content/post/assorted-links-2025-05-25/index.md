@@ -1,7 +1,7 @@
 ---
-title: Weekly Assorted Things
+title: Assorted Things
 description: A periodic post of things I found interesting.
-slug: weekly-assorted-things-2025-05-25
+slug: assorted-things-2025-05-25
 date: 2025-05-25
 categories:
     - Assorted
