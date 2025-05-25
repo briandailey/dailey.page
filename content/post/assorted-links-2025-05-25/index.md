@@ -1,6 +1,6 @@
 ---
 title: Assorted Things
-description: A periodic post of things I found interesting.
+description: AI, academia, generative tech, personal finance, investing, and technology for agriculture.
 slug: assorted-things-2025-05-25
 date: 2025-05-25
 categories:
