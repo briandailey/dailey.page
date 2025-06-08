@@ -1,4 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Dailey Missives</title><link>https://dailey.page/post/</link><description>Recent content in Posts on Dailey Missives</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Sun, 25 May 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dailey.page/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Assorted Things</title><link>https://dailey.page/p/assorted-things-2025-05-25/</link><pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><guid>https://dailey.page/p/assorted-things-2025-05-25/</guid><description>&lt;ol>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Dailey Missives</title><link>https://dailey.page/post/</link><description>Recent content in Posts on Dailey Missives</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Sun, 08 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://dailey.page/post/index.xml" rel="self" type="application/rss+xml"/><item><title>Assorted Things</title><link>https://dailey.page/p/assorted-things-2025-06-08/</link><pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate><guid>https://dailey.page/p/assorted-things-2025-06-08/</guid><description>&lt;ol>
+&lt;li>&lt;a class="link" href="https://uxdesign.cc/the-perverse-incentives-of-vibe-coding-23efbaf75aee?gi=2a0841013987" target="_blank" rel="noopener"
+>The perverse incentives of Vibe Coding&lt;/a>&lt;br>
+A common approach to minimize overly verbose code output is to force the LLM to first plan changes and ask permission to continue.&lt;/li>
+&lt;li>&lt;a class="link" href="https://codemanship.wordpress.com/2025/05/21/five-boring-things-that-have-a-bigger-impact-than-a-i-coding-assistants-on-dev-team-productivity/" target="_blank" rel="noopener"
+>Five Boring Things That Have A Bigger Impact Than “A.I.” Coding Assistants On Dev Team Productivity&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://developers.googleblog.com/en/stitch-a-new-way-to-design-uis/" target="_blank" rel="noopener"
+>From idea to app: Introducing Stitch, a new way to design UIs- Google Developers Blog&lt;/a>&lt;br>
+“Stitch is an experiment in using LLMs to help design and generate user interfaces. You can describe UI ideas in natural language, generate and iterate on wireframes, and eventually generate code or paste your design into Figma.”&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.bloomberg.com/graphics/2025-cancer-treatment-costs/" target="_blank" rel="noopener"
+>Costly New Cancer Drugs Often Don&amp;rsquo;t Help Patients Live Longer&lt;/a>&lt;br>
+&amp;ldquo;Advanced cancer generally can’t be cured, and the new medicines haven’t changed that. They’re still often used in combination with toxic chemotherapy and radiation, at a staggering cost: Bloomberg’s analysis found the median initial price of a new cancer drug has quadrupled after inflation since the early 2000s to about $25,000 a month in recent years. Meanwhile, a forthcoming study from Columbia University researcher Tito Fojo measured how long the average new drug treating the disease improves survival: about three months.&amp;rdquo;&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.dwarkesh.com/p/timelines-june-2025" target="_blank" rel="noopener"
+>Why I have slightly longer timelines than some of my guests&lt;/a>&lt;br>
+.&amp;quot;..the fundamental problem is that LLMs don’t get better over time the way a human would. The lack of continual learning is a huge huge problem.&amp;quot;&lt;/li>
+&lt;li>&lt;a class="link" href="https://blog.glyph.im/2025/06/i-think-im-done-thinking-about-genai-for-now.html" target="_blank" rel="noopener"
+>Deciphering Glyph :: I Think I’m Done Thinking About genAI For Now&lt;/a>&lt;br>
+&amp;ldquo;Unlike many programmers, I love code review. I find that it is one of the best parts of the process of programming. I can help people learn, and develop their skills, and learn from them, and appreciate the decisions they made, develop an impression of a fellow programmer’s style. It’s a great way to build a mutual theory of mind.
+[&amp;hellip;] The process of coding with an &amp;lsquo;agentic&amp;rsquo; LLM appears to be the process of carefully distilling all the worst parts of code review, and removing and discarding all of its benefits. The lazy, dumb, lying robot asshole keeps making the same mistakes over and over again, never improving, never genuinely reacting, always obsequiously pretending to take your feedback on board.&amp;rdquo;&lt;/li>
+&lt;li>&lt;a class="link" href="https://forgecode.dev/blog/ai-agent-best-practices/" target="_blank" rel="noopener"
+>What Actually Works: 12 Lessons from AI Pair Programming&lt;/a>&lt;br>
+Field-tested practices for productive AI-assisted development. Real lessons from 6 months of daily AI pair programming, including what works, what fails, and why most engineers are doing it wrong.&lt;/li>
+&lt;li>&lt;a class="link" href="https://fly.io/blog/youre-all-nuts/" target="_blank" rel="noopener"
+>My AI Skeptic Friends Are All Nuts · The Fly Blog&lt;/a>&lt;br>
+A pretty good write-up, can&amp;rsquo;t find much to argue with here. I need to revisit my current toolchain to include more agents. Zed looks interesting.&lt;/li>
+&lt;/ol></description></item><item><title>Assorted Things</title><link>https://dailey.page/p/assorted-things-2025-05-25/</link><pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate><guid>https://dailey.page/p/assorted-things-2025-05-25/</guid><description>&lt;ol>
 &lt;li>&lt;a class="link" href="https://www.theatlantic.com/magazine/archive/2025/06/brain-injury-consciousness-science/682579/" target="_blank" rel="noopener"
 >The Mother Who Never Stopped Believing Her Son Was Still There&lt;/a>&lt;br>
 What an incredible read, on so many levels.&lt;/li>
