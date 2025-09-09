@@ -16,7 +16,7 @@ If you talk to me much about management, you'll know that I'm pretty big on team
 
 In this podcast, Mr. Fisher made an excellent point that resonated with me. "Trust" can mean a variety of different things. Fisher broke "trust" down into two categories. Relational trust, also known as socio-emotional trust, addresses things like personal vulnerability ("If I share this information with my colleague, will they use it against me later?") or emotional connection ("We all felt happy together about a group accomplishment, so we feel closer to one another"). Task-based trust is a little different, and it's more common in the workplace setting. Namely, do I trust you to do the work in a manner that is acceptable to me? Do you follow-through on assignments and complete them competently?
 
-Relational trust and task-based trust are not necessarily correlated. You can trust someone on an emotional level, but you may not trust them to complete work-related tasks competently. Team-building excercises address the former and not the latter.
+Relational trust and task-based trust are not necessarily correlated. You can trust someone on an emotional level, but you may not trust them to complete work-related tasks competently. Team-building exercises address the former and not the latter.
 
 Mr. Fisher makes the point that teams perform better when task-based trust is established first, and then relational trust (which is also important!) is established over time. When establishing trust for a team, Fisher recommends creating "high fidelity task simulations" in which the work is (hopefully) similar to the job description, allowing team members to communicate their competence in a more low-stakes environment.
 
