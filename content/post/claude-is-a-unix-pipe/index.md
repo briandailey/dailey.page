@@ -1,6 +1,6 @@
 ---
 title: Claude Is A Unix Pipe
-description: LLMs are becoming glue between disaparate systems; this comes with some trade-offs.
+description: LLMs are becoming glue between disparate systems; this comes with some trade-offs.
 slug: claude-is-a-unix-pipe
 date: 2026-09-07 12:00:00+0000
 image: cover.jpg
