@@ -13,7 +13,7 @@ tags:
 
 Recently we [announced an MCP server for DocDB](https://docdb.io/blog/docdb-connectors-for-claude-and-chatgpt/). While observing our user base adopt the tool it occurred to me that it closely matches the paradigm of the Unix pipe. It is, fundamentally, a new category of “glue” that I expect to be widely adopted in the next few years.
 
-The Unix pipe is a magical tool that allows you to compose powerful one-off pipelines by combining several programs together. It illustrates an philosophy of widely referred to as the “Unix philosophy.” This philosophy can be boiled down to the idea that “the power of a system comes more from the relationships among programs than from the programs themselves.”
+The Unix pipe (`|`) is a magical character that allows you to compose powerful one-off pipelines by combining several programs together. It illustrates an philosophy of widely referred to as the “Unix philosophy.” This philosophy can be boiled down to the idea that “the power of a system comes more from the relationships among programs than from the programs themselves.”
 
 This philosophy has four tenets, but the first two are most relevant to what I see LLM tooling doing right now.
 
