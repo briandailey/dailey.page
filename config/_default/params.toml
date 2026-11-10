@@ -19,7 +19,7 @@ subtitle = "Brian Dailey is a software engineer, technical advisor, and fCTO bas
 [sidebar.avatar]
 enable = true
 local = true
-src = "img/avatar.jpg"
+src = "img/avatar.png"
 
 [article]
 math = false
