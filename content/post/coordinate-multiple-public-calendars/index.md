@@ -3,6 +3,7 @@ title: Coordinate Multiple Public Calendars
 description: Take 2-5 public booking links and find a common time with this super easy tool.
 slug: coordinate-multiple-public-calendars
 date: 2026-11-10 00:00:00-0600
+image: cover.jpg
 categories:
     - Business
 tags:
@@ -15,3 +16,5 @@ I'm constantly trying to coordinate calendars between myself and others. Even if
 [Calendaristic](https://calendaristic.com/?utm_source=dailey.page), resurrected! 🧟
 
 Take 2-5 public links (Cal.com, Calendly, or Microsoft booking links) and find a mutual time that works! Give it a spin at [calendaristic.com](https://calendaristic.com/?utm_source=dailey.page).
+
+> _Header Image by [Kawê Rodrigues on Unsplash](https://unsplash.com/photos/vintage-computer-and-fax-machine-BuesDqQlBLU?utm_source=dailey.page)_
